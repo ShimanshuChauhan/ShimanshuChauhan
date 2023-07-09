@@ -34,8 +34,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="600" height="300"/>
 </div>
 
- ## About Me :
- I am a student of LOVELY PROFESSIONAL UNIVERSITY <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXxuGt9qR1uq-46EjOfOpkaCLFhG6R1bucie0EDB5vGqoJz9ifD-5anIvp1KuCW1rDOw" width="20"> from India.
+---
+## About Me:
+I am a student of LOVELY PROFESSIONAL UNIVERSITY <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXxuGt9qR1uq-46EjOfOpkaCLFhG6R1bucie0EDB5vGqoJz9ifD-5anIvp1KuCW1rDOw" width="20"> from India.
  - :telescope: I’m learning full-stack development and current learning java and web-development.
 
 - :seedling: Exploring Tech Field with great enthusiasm.
@@ -43,3 +44,23 @@ Here are some ideas to get you started:
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+---
+- ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+<!--### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
